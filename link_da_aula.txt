@@ -1,0 +1,15 @@
+-Slides da aula
+http://workshops.lewagon.org/workshops/landing
+
+-Modelo preparado de um html com bootStrap
+https://github.com/lewagon/bootstrap-boilerplate/blob/gh-pages/index.html
+
+-Lugar para buscar fontes
+https://www.google.com/fonts#
+
+-Icones
+https://fortawesome.github.io/Font-Awesome/icons/
+
+-Extesão do chrome
+ColorZila - identificar qualquer cor num site.
+FontFaceNinja - identifica qualquer fonte em um site.
